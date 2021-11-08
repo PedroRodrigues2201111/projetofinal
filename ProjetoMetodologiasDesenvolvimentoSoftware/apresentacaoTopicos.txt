@@ -1,0 +1,4 @@
+pws e da fazemos o proj e em mds planeamento relatorio analise desenho
+logica de negocio dos 2 projetos, tabela analise concorrencial
+falar da sprint 1 e sprint 2, se correu bem e o que devemos fazer para a proxima
+colocar 1 ou 2 user stories como exemplo
